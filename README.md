@@ -3,16 +3,13 @@
 ###   
 
 <div align="left"> 
-  <a href="https://www.linkedin.com/in/nazil-sheikh-aaba63228" target="_blank">
+  <a href="https://www.linkedin.com/in/aman-kushwaha-019117273/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/nazil_the_professor/" target="_blank">
+  <a href="https://www.instagram.com/aman_.kushwaha_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="53" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/nazilsheikhemer1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="53" height="25" alt="hackerrank logo"  />
-  </a>
-  <a href="nazilsheikhemerson@gmail.com" target="_blank">
+  <a href="amankushwaha1331@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="53" height="25" alt="gmail logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="53" height="25" alt="telegram logo"  />
