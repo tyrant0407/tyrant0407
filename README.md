@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">I'm from Bhopal MP,<br> currently i am pursuing my BTech Degree <br>in Artificial Intelligence <br>and Data Science <br><br>-🧑🏻‍💻 Of course, bad code can be cleaned up. But it’s very expensive<br><br>- 📚 I'm currently learning Deep Learning</p>
+<p align="left">I'm from Bhopal MP,<br> currently i am pursuing my BTech Degree <br>in Computer Science<br>and Information Technology<br><br>-🧑🏻‍💻 Of course, bad code can be cleaned up. But it’s very expensive<br><br>- 📚 I'm currently MERN STACK development Learning</p>
 
 ###
 
@@ -75,7 +75,7 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=nazil-the-professor&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=nazil-the-professor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tyrant0407&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
 </div>
 
 ###
