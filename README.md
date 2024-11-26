@@ -74,5 +74,14 @@
 
 <img src="https://raw.githubusercontent.com/nazil-the-professor/nazil-the-professor/output/snake.svg" alt="Snake animation" />
 
+<!--- 2nd Section on GitHub Analytics -->
+
+
+  <summary><b>⚙️ GitHub Analytics</b></summary>
+<a href="https://github.com/tyrant0407">
+   <img height="155em" src="https://raw.githubusercontent.com/tyrant0407/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/tyrant0407/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+<br>
+     ****
 ###
 
