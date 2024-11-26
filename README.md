@@ -73,5 +73,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/nazil-the-professor/nazil-the-professor/output/snake.svg" alt="Snake animation" />
-###
 
