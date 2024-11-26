@@ -1,4 +1,4 @@
-<h2 align="left">Hiii there, I'm  Nazil sheikh 👋🏻</h2>
+<h2 align="left">Hiii there, I'm  Aman Kushwaha 👋🏻</h2>
 
 ###   
 
@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/nazil-the-professor/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/tyrant0407/count.svg?"  />
 </div>
 
 ###
