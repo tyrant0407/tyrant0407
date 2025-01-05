@@ -72,5 +72,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tyrant0407/tyrant0407/output/snake.svg" alt="Snake animation" />
+
 
