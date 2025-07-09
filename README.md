@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">I'm from Bhopal MP,<br> currently i am pursuing my BTech Degree <br>in Computer Science<br>and Information Technology<br><br>-🧑🏻‍💻 Of course, bad code can be cleaned up. But it’s very expensive<br><br>- 📚 I'm currently MERN STACK development Learning</p>
+<p align="left">I'm from Bhopal MP,<br> i have completed my BTech Degree <br>in Computer Science<br>and Information Technology<br><br>-🧑🏻‍💻 Of course, bad code can be cleaned up. But it’s very expensive<br><br>- 📚 I'm MERN STACK developer</p>
 
 ###
 
